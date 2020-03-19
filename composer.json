@@ -1,6 +1,8 @@
 {
   "name": "zhijia/swoft2-mongodb",
+  "version": "v2.0.8",
   "license": "Apache-2.0",
+  "minimum-stability": "dev"
   "authors": [
     {
       "name": "hzhou",
